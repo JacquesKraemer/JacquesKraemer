@@ -35,7 +35,7 @@ Entre estos proyectos desarrolle un **índice del inflación en alimentos** que 
 Si quieres saber más sobre mí o discutir ideas interesantes, no dudes en contactarme:
 
 - **Email**: [jacqueskraemer2001@gmail.com](mailto:jacqueskraemer2001@gmail.com)
-- **LinkedIn**: [[Tu perfil de LinkedIn](https://www.linkedin.com/in/jacques-kraemer-059819211/)]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/jacques-kraemer-059819211/))
-- **Twitter**: [[Tu cuenta de Twitter](https://twitter.com/tu_cuenta](https://x.com/kraemer_jacques)]([https://twitter.com/tu_cuenta](https://x.com/kraemer_jacques))
+- **LinkedIn**: [(https://www.linkedin.com/in/jacques-kraemer-059819211/)]
+- **Twitter**: [(https://twitter.com/tu_cuenta](https://x.com/kraemer_jacques)]
 
 ---
