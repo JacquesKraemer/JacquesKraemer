@@ -36,6 +36,6 @@ Si quieres saber más sobre mí o discutir ideas interesantes, no dudes en conta
 
 - **Email**: [jacqueskraemer2001@gmail.com](mailto:jacqueskraemer2001@gmail.com)
 - **LinkedIn**: [(https://www.linkedin.com/in/jacques-kraemer-059819211/)]
-- **Twitter**: [(https://twitter.com/tu_cuenta](https://x.com/kraemer_jacques)]
+- **Twitter**: [(https://twitter.com/kraemer_jacques](https://x.com/kraemer_jacques)]
 
 ---
