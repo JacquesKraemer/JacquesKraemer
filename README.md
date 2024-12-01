@@ -26,13 +26,13 @@ Mi nombre es **Jacques Kraemer**, tengo 23 años y actualmente curso la carrera 
 
 He trabajado en diversos **proyectos de análisis de datos**, en los cuales he aplicado estas herramientas para obtener insights útiles, tanto en el ámbito académico como en contextos prácticos. Entre estos proyectos, me gustaría destacar los siguientes:
 
-  ###📊 Índice de inflación en alimentos 
+  ### 📊 Índice de inflación en alimentos 
   Mediante el web scraping de precios online para una canasta alimentaria, conformada siguiendo la metodología del INDEC, desarrollé un *índice de inflación de alta frecuencia* para los alimentos. Pueden encontrar la metodología detallada en el siguiente link: https://jacqueskraemer.notion.site/2e7d5202ee3349b6b952c652dc0094eb? v=9c921ba19375416a92f9d7479506aa93&pvs=74
 
-  ###💵 Dólar para todos
+  ### 💵 Dólar para todos
   Proyecto de *web scraping* y *automatización* utilizando github actions, que busca publicar periódicamente las distintas cotizaciones del dólar y su variación.
 
-  ###📈 Datos de la bolsa - IOL 
+  ### 📈 Datos de la bolsa - IOL 
   Utilicé la API pública y gratuita de IOL para acceder a información del mercado de capitales argentino. Más específicamente, desarrolle tres proyectos que buscan aprovechar las posibilidades de la API para:
 Facilitar el acceso a información personal: *análisis de portafolio personal*.
 Obtener información relevante de activos financieros: *cotizaciones históricas y panel de principales activos*.
