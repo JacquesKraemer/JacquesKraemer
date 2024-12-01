@@ -34,8 +34,8 @@ He trabajado en diversos **proyectos de análisis de datos**, en los cuales he a
 
   ### 📈 Datos de la bolsa - IOL 
   Utilicé la API pública y gratuita de IOL para acceder a información del mercado de capitales argentino. Más específicamente, desarrolle tres proyectos que buscan aprovechar las posibilidades de la API para:
-  Facilitar el acceso a información personal: *análisis de portafolio personal*.
-  Obtener información relevante de activos financieros: *cotizaciones históricas y panel de principales activos*.
+  - Facilitar el acceso a información personal: *análisis de portafolio personal*.
+  - Obtener información relevante de activos financieros: *cotizaciones históricas y panel de principales activos*.
 
 
 ---
