@@ -8,11 +8,12 @@ Mi nombre es **Jacques Kraemer**, tengo 23 años y actualmente curso la carrera 
 
 ### 🔧 Herramientas de Análisis
 
-- **Excel**: Intermedio/Avanzado
+- **Excel**: Intermedio/Avanzado   
 - **Python**: Intermedio
   - Web Scraping
   - Pandas
   - Matplotlib
+  - Plotly
   - Requests
 - **SQL (PostgreSQL)**: Básico/Intermedio
 - **Power BI**: Intermedio
@@ -34,8 +35,8 @@ He trabajado en diversos **proyectos de análisis de datos**, en los cuales he a
 
   ### 📈 Datos de la bolsa - IOL 
   Utilicé la API pública y gratuita de IOL para acceder a información del mercado de capitales argentino. Más específicamente, desarrolle tres proyectos que buscan aprovechar las posibilidades de la API para:
-  - Facilitar el acceso a información personal: *análisis de portafolio personal*.
-  - Obtener información relevante de activos financieros: *cotizaciones históricas y panel de principales activos*.
+  - *análisis de portafolio personal*: Facilitar el acceso a información personal y el analisis ganancias/perdidas porcentuales y monetarias y de distribución de tipos de activos en tenencia.
+  - *cotizaciones históricas y panel de principales activos*: Obtener información, en tiempo real e historica, relevante de activos financieros.
 
 
 ---
