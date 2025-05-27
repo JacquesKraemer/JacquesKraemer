@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jacques Kraemer
 
-### 🎓 Estudiante de Economía | 📊 Apasionado por el Análisis de Datos y la Programación
+### 🎓 Estudiante de Economía | 📊 Apasionado por el Análisis de Datos, Programación y Economía.
 
 Mi nombre es **Jacques Kraemer**, tengo 23 años y actualmente curso la carrera de **Economía** en la **Universidad de Buenos Aires (UBA)**. Me apasionan las finanzas, la economía, la programación y el análisis de datos. 
 
