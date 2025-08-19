@@ -2,7 +2,8 @@
 
 ### 🎓 Estudiante de Economía | 📊 Apasionado por el Análisis de Datos, Programación y Economía.
 
-Mi nombre es **Jacques Kraemer**, soy estudiante avanzado de la carrera de **Economía** en la **Universidad de Buenos Aires (UBA)**. Me apasionan las finanzas, la economía, la programación y el análisis de datos. 
+Mi nombre es Jacques Kraemer, soy estudiante avanzado de economía en la Universidad de Buenos Aires, me apasiona la economía y la ciencia de datos. Tengo dos años de experiencia en Análisis de Datos económicos y financieros, en los que he trabajado con Excel, Power BI, Python y SQL.
+
 
 ---
 
@@ -15,7 +16,7 @@ Mi nombre es **Jacques Kraemer**, soy estudiante avanzado de la carrera de **Eco
   - Matplotlib
   - Plotly
   - Requests
-- **SQL (PostgreSQL)**: Básico/Intermedio
+- **SQL (PostgreSQL)**: Básico
 - **Power BI**: Intermedio
   - Modelado de Datos
   - Cálculos y Expresiones DAX
