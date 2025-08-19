@@ -1,51 +1,50 @@
 # 👋 ¡Hola! Soy Jacques Kraemer
 
-### 🎓 Estudiante de Economía | 📊 Apasionado por el Análisis de Datos, Programación y Economía.
+### 🎓 Estudiante avanzado de Economía | 📊 Apasionado por la Economía y la Ciencia de Datos.
 
-Mi nombre es Jacques Kraemer, soy estudiante avanzado de economía en la Universidad de Buenos Aires, me apasiona la economía y la ciencia de datos. Tengo dos años de experiencia en Análisis de Datos económicos y financieros, en los que he trabajado con Excel, Power BI, Python y SQL.
-
-
----
-
-### 🔧 Herramientas de Análisis
-
-- **Excel**: Intermedio/Avanzado   
-- **Python**: Intermedio
-  - Web Scraping
-  - Pandas
-  - Matplotlib
-  - Plotly
-  - Requests
-- **SQL (PostgreSQL)**: Básico
-- **Power BI**: Intermedio
-  - Modelado de Datos
-  - Cálculos y Expresiones DAX
-  - Visualizaciones Interactivas
+Soy **estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA)** con experiencia en el análisis de datos económicos y financieros.  
+Me apasiona transformar datos en información útil para la toma de decisiones, aplicando técnicas de análisis, visualización y automatización con herramientas como **Python, SQL, Excel y Power BI**.  
 
 ---
 
-## 📈 Proyectos y Experiencia
+## 🔧 Herramientas y Tecnologías  
 
-He trabajado en diversos **proyectos de análisis de datos**, en los cuales he aplicado estas herramientas para obtener insights útiles, tanto en el ámbito académico como profesional. Entre estos proyectos, me gustaría destacar los siguientes:
-
-  ### 📊 Índice de inflación en alimentos 
-  Mediante el web scraping de precios online para una canasta alimentaria, conformada siguiendo la metodología del INDEC, desarrollé un *índice de inflación de alta frecuencia* para los alimentos. Pueden encontrar la metodología detallada en el siguiente link: https://jacqueskraemer.notion.site/2e7d5202ee3349b6b952c652dc0094eb? v=9c921ba19375416a92f9d7479506aa93&pvs=74
-
-  ### 💵 Dólar para todos
-  Proyecto de *web scraping* y *automatización* utilizando github actions, que busca publicar periódicamente las distintas cotizaciones del dólar y su variación.
-
-  ### 📈 Datos de la bolsa - IOL 
-  Utilicé la API pública y gratuita de IOL para acceder a información del mercado de capitales argentino. Más específicamente, desarrolle tres proyectos que buscan aprovechar las posibilidades de la API para:
-  - *análisis de portafolio personal*: Facilitar el acceso a información personal y el analisis ganancias/perdidas porcentuales y monetarias y de distribución de tipos de activos en tenencia.
-  - *cotizaciones históricas y panel de principales activos*: Obtener información, en tiempo real e historica, relevante de activos financieros.
-
+- **Python**: Análisis de datos (Pandas, Numpy), visualización (Matplotlib, Plotly), Web Scraping (Requests, Playwright).  
+- **SQL (PostgreSQL)**: Consulta y gestión de bases de datos relacionales.  
+- **Power BI**: Modelado de datos, DAX, creación de dashboards interactivos.  
+- **Excel**: Análisis avanzado, tablas dinámicas, funciones estadísticas y financieras.  
 
 ---
 
-Si quieres saber más sobre mí o discutir ideas interesantes, no dudes en contactarme:
+## 📈 Proyectos Destacados  
 
-- **Email**: [jacqueskraemer2001@gmail.com](mailto:jacqueskraemer2001@gmail.com)
-- **LinkedIn**: [(https://www.linkedin.com/in/jacques-kraemer-059819211/)]
-- **Twitter**: [(https://twitter.com/kraemer_jacques](https://x.com/kraemer_jacques)]
+### 📊 Índice de inflación en alimentos  
+Desarrollo de un *índice de inflación de alta frecuencia* mediante **web scraping de precios online** para una canasta alimentaria construida bajo la metodología del INDEC.  
+👉 [Metodología y detalles del proyecto](https://jacqueskraemer.notion.site/2e7d5202ee3349b6b952c652dc0094eb?v=9c921ba19375416a92f9d7479506aa93&pvs=74)  
 
 ---
+
+### 💵 Dólar para todos  
+Proyecto de **automatización de datos** con *GitHub Actions* que publica periódicamente las distintas cotizaciones del dólar en Argentina y sus variaciones.  
+
+---
+
+### 📈 Datos de la bolsa (IOL API)  
+Conexión a la **API de IOL** para aprovechar datos del mercado de capitales argentino. Entre los desarrollos se incluyen:  
+- 📊 *Análisis de portafolio personal*: métricas de ganancias/pérdidas, composición de activos y distribución por clase.  
+- 📈 *Cotizaciones históricas*: acceso a información en tiempo real e histórica de los principales activos financieros.  
+
+---
+
+## 🚀 En aprendizaje constante  
+
+Actualmente me encuentro profundizando en **estadística aplicada y machine learning con Python**, con el objetivo de aplicar técnicas más avanzadas de análisis en economía y finanzas.  
+
+---
+
+## 📬 Contacto  
+
+- **Email**: [jacqueskraemer2001@gmail.com](mailto:jacqueskraemer2001@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/jacques-kraemer-059819211](https://www.linkedin.com/in/jacques-kraemer-059819211/)  
+- **Twitter/X**: [x.com/kraemer_jacques](https://x.com/kraemer_jacques)  
+
