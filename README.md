@@ -1,9 +1,9 @@
-# 👋 ¡Hola! Soy Jacques Kraemer
+# Soy Jacques Kraemer
 
 ### 🎓 Estudiante avanzado de Economía | 📊 Apasionado por la Economía y la Ciencia de Datos.
 
-Soy **estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA)** con experiencia en el análisis de datos económicos y financieros.  
-Me apasiona transformar datos en información útil para la toma de decisiones, aplicando técnicas de análisis, visualización y automatización con herramientas como **Python, SQL, Excel y Power BI**.  
+**Estudio Economía en la Universidad de Buenos Aires (UBA)** y tengo experiencia en el análisis de datos económicos y financieros.  
+Me apasiona transformar datos en información útil para la toma de decisiones aplicando técnicas de análisis, visualización y automatización con herramientas como **Python, SQL, Excel y Power BI**.  
 
 ---
 
