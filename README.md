@@ -1,50 +1,37 @@
-# Soy Jacques Kraemer
+# Jacques Kraemer
 
-### 🎓 Estudiante avanzado de Economía | 📊 Apasionado por la Economía y la Ciencia de Datos.
+Soy estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA) y analista en el INDEC. Trabajo con datos económicos y financieros, con foco en la validación de datos, la automatización de procesos y el desarrollo de herramientas de análisis y visualización.
 
-**Estudio Economía en la Universidad de Buenos Aires (UBA)** y tengo experiencia en el análisis de datos económicos y financieros.  
-Me apasiona transformar datos en información útil para la toma de decisiones aplicando técnicas de análisis, visualización y automatización con herramientas como **Python, SQL, Excel y Power BI**.  
+## Proyectos destacados
 
----
+### Datos del Plata · Proyecto más reciente
 
-## 🔧 Herramientas y Tecnologías  
+[Datos del Plata](https://datosdelplata.com.ar/) es una plataforma web de consulta y visualización de datos económicos y financieros de Argentina. Incluye gráficos de series económicas, un panel de tipos de cambio, un mapa de calor de renta fija y una calculadora de flujos de fondos de bonos.
 
-- **Python**: Análisis de datos (Pandas, Numpy), visualización (Matplotlib, Plotly), Web Scraping (Requests, Playwright).  
-- **SQL (PostgreSQL)**: Consulta y gestión de bases de datos relacionales.  
-- **Power BI**: Modelado de datos, DAX, creación de dashboards interactivos.  
-- **Excel**: Análisis avanzado, tablas dinámicas, funciones estadísticas y financieras.  
+Desarrollé la aplicación con Flask y PostgreSQL, integré fuentes de datos mediante APIs y web scraping, y automaticé tareas de actualización. La aplicación se ejecuta en un servidor con Docker.
 
----
+### Índice de inflación en alimentos
 
-## 📈 Proyectos Destacados  
+Desarrollo de un índice de precios de alta frecuencia para una canasta de alimentos construida a partir de la metodología del INDEC. Los precios se recolectan mediante web scraping. [Metodología y detalles del proyecto](https://jacqueskraemer.notion.site/2e7d5202ee3349b6b952c652dc0094eb?v=9c921ba19375416a92f9d7479506aa93&pvs=74)
 
-### 📊 Índice de inflación en alimentos  
-Desarrollo de un *índice de inflación de alta frecuencia* mediante **web scraping de precios online** para una canasta alimentaria construida bajo la metodología del INDEC.  
-👉 [Metodología y detalles del proyecto](https://jacqueskraemer.notion.site/2e7d5202ee3349b6b952c652dc0094eb?v=9c921ba19375416a92f9d7479506aa93&pvs=74)  
+### Dólar para todos
 
----
+Publicación periódica de cotizaciones del dólar en Argentina y sus variaciones, automatizada con GitHub Actions.
 
-### 💵 Dólar para todos  
-Proyecto de **automatización de datos** con *GitHub Actions* que publica periódicamente las distintas cotizaciones del dólar en Argentina y sus variaciones.  
+### Datos de la bolsa (API de IOL)
 
----
+Integración con la API de IOL para consultar cotizaciones históricas y en tiempo real, y analizar la composición y el rendimiento de una cartera de inversión.
 
-### 📈 Datos de la bolsa (IOL API)  
-Conexión a la **API de IOL** para aprovechar datos del mercado de capitales argentino. Entre los desarrollos se incluyen:  
-- 📊 *Análisis de portafolio personal*: métricas de ganancias/pérdidas, composición de activos y distribución por clase.  
-- 📈 *Cotizaciones históricas*: acceso a información en tiempo real e histórica de los principales activos financieros.  
+## Herramientas y tecnologías
 
----
+- **Análisis y visualización de datos** — Python (pandas, NumPy, Matplotlib y Plotly), Excel (tablas dinámicas y funciones estadísticas y financieras) y Power BI (modelado y DAX).
+- **Bases de datos** — SQL y PostgreSQL para consultas, validación y gestión de datos. Redis para caché.
+- **Integración y automatización** — APIs REST, Requests, Playwright y GitHub Actions.
+- **Desarrollo web** — Flask, Jinja, Bootstrap, HTMX y Chart.js.
+- **Control de versiones y despliegue** — Git, GitHub, Docker Compose, Gunicorn, EasyPanel y Cloudflare.
 
-## 🚀 En aprendizaje constante  
+## Contacto
 
-Actualmente me encuentro profundizando en **estadística aplicada y machine learning con Python**, con el objetivo de aplicar técnicas más avanzadas de análisis en economía y finanzas.  
-
----
-
-## 📬 Contacto  
-
-- **Email**: [jacqueskraemer2001@gmail.com](mailto:jacqueskraemer2001@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/jacques-kraemer-059819211](https://www.linkedin.com/in/jacques-kraemer-059819211/)  
-- **Twitter/X**: [x.com/kraemer_jacques](https://x.com/kraemer_jacques)  
-
+- [Correo electrónico](mailto:jacqueskraemer.contacto@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/jacques-kraemer-059819211/)
+- [X](https://x.com/kraemer_jacques)
