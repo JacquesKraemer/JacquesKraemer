@@ -1,6 +1,6 @@
 # Jacques Kraemer
 
-Soy estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA) y analista en el INDEC. Trabajo con datos económicos y financieros, con foco en la validación de datos, la automatización de procesos y el desarrollo de herramientas de análisis y visualización.
+Soy estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA) y analista en el INDEC. Trabajo con datos económicos y financieros, con foco en el reaserch, la automatización de procesos y el desarrollo de herramientas de análisis y visualización.
 
 ## Proyectos destacados
 
@@ -8,7 +8,7 @@ Soy estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA) y a
 
 [Datos del Plata](https://datosdelplata.com.ar/) es una plataforma web de consulta y visualización de datos económicos y financieros de Argentina. Incluye gráficos de series económicas, un panel de tipos de cambio, un mapa de calor de renta fija y una calculadora de flujos de fondos de bonos.
 
-Desarrollé la aplicación con Flask y PostgreSQL, integré fuentes de datos mediante APIs y web scraping, y automaticé tareas de actualización. La aplicación se ejecuta en un servidor con Docker.
+Desarrollé la aplicación con Flask y PostgreSQL, integré fuentes de datos mediante APIs y web scraping, y automaticé tareas de actualización de datos. La aplicación se ejecuta en un servidor cloud empaquetado con Docker.
 
 ### Índice de inflación en alimentos
 
