@@ -4,7 +4,7 @@ Soy estudiante avanzado de Economía en la Universidad de Buenos Aires (UBA) y a
 
 ## Proyectos destacados
 
-### Datos del Plata · Proyecto más reciente
+### Datos del Plata · Research as infrastructure
 
 [Datos del Plata](https://datosdelplata.com.ar/) es una plataforma web de consulta y visualización de datos económicos y financieros de Argentina. Incluye gráficos de series económicas, un panel de tipos de cambio, un mapa de calor de renta fija y una calculadora de flujos de fondos de bonos.
 
